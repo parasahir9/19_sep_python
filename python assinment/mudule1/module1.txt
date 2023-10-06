@@ -1,0 +1,25 @@
+1)- Software is a set of instructions, data or programs used to operate computers  
+    and execute specific tasks. It is the opposite of hardware, which describes 
+    the physical aspects of a computer.Software is a generic term used to refer 
+    to applications, scripts and programs that run on a device. It can be thought
+    of as the variable part of a computer, while hardware is the invariable part.
+
+2)- Web allipcation,mobile application,desktop application,server application,
+    cloud application,enterprise application,gaming application,scintific 
+    application,education application,multimedia application,communication
+    application,utility application,internet of things application,finacial
+    and banking application,health care application,nabvigation application
+     
+
+3)- Programming is the process of instructing a computer to perform specific 
+    tasks or operations by providing it with a set of instructions written in 
+    a programming language. These instructions are typically referred to as "code"
+    or "source code." Programmers, also known as developers or software engineers,
+    write and design these instructions to create software applications, websites,
+    games, and other types of computer programs.
+
+4)- Python is a high-level, interpreted, and general-purpose programming language
+    known for its simplicity and readability. It was created by Guido van Rossum 
+    and first released in 1991. Python is designed to be easy to learn and use, 
+    making it an excellent choice for beginners, but it is also a powerful language
+    that is widely used in various fields of software development
