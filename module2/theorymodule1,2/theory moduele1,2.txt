@@ -1,0 +1,77 @@
+How memory is managed in Python? 
+ans---Memory management in Python involves a private heap containing all Python 
+      objects and data structures. The management of this private heap is ensured 
+      internally by the Python memory manager.
+
+What is the purpose continue statement in python?
+ans---Continue: The continue statement in Python is used to skip the remaining code
+      inside a loop for the current iteration only.
+
+What are negative indexes and why are they used? 
+ans---Negative indexing is used in Python to manipulate sequence objects such as 
+      lists, arrays, strings, etc. Negative indexing retrieves elements from the 
+      end by providing negative numbers as sequence indexes.
+-----------------------------------------------------------------------------------
+1]--What is Python ,Name some of the features of Python.
+ans---Python can be used to develop both desktop and web apps and complex 
+      scientific and numerical applications. Python's data analysis features 
+      help you create custom big data solutions without so much time and effort.
+      You can also use the Python data visualization libraries and APIs to present
+      data in a more appealing way.
+
+3]--Is python the right choice for Web based Programming? 
+ans---Python is a versatile language that can be used for a wide range of 
+      applications, including web development. It is a high-level language that 
+      can be used to write complex applications with minimal coding. Python's 
+      versatility also makes it ideal for developing machine learning models and
+      scientific computing
+
+4]--Why was the language called as Python?
+ans--- Van Rossum thought he needed a name that was short, unique, and slightly
+       mysterious, so he decided to call the language Python.
+
+6]--What is thelanguage from which Python has got its features or derived its features?
+ans---ABC programming language, which was inspired by SETL, capable of exception
+      handling and interfacing with the Amoeba operating system.
+
+8]--Does python support switch or case statement in Python?If not what is the
+reason for the same?
+ans--- Python does not have a switch or case statement. To get around this
+       fact, we use dictionary mapping.
+
+9]--How Python is interpreted?
+ans---Python is an interpreted language, which means the source code of
+      a Python program is converted into bytecode that is then executed by
+      the Python virtual machine.
+ 
+12]--How memory is managed in Python?
+ans---As we know, Python uses the dynamic memory allocation which 
+      is managed by the Heap data structure
+
+13]--What is namespace in Python?
+ans---Namespaces in Python. A namespace is a collection of currently defined
+     symbolic names along with information about the object that each name 
+     reference
+
+14]--What is the purpose continue statement in python?
+ans---The continue statement in Python is used to skip the remaining code
+      inside a loop for the current iteration only.
+
+19]--What are the tools that help to find bugs or perform static analysis?
+ans---Pychecker and Pylint are the static analysis tools that help to find 
+      bugs in python. Pychecker is an opensource tool for static analysis that
+      detects the bugs from source code and warns about the style and complexity
+      of the bug.-
+
+20]--What are Python decorators?
+ans---A decorator is a design pattern in Python that allows a user to add 
+      new functionality to an existing object without modifying its structure.
+      Decorators are usually called before the definition of a function you want
+      to decorate.
+
+21]--What is PEP 8?
+ans---Python provides a coding style known as PEP 8. PEP refers to Python 
+      Enhancement Proposals and is one of the most readable and eye-pleasing
+      coding styles. Since it is used by many projects all across the world, 
+      +programmers should familiarize themselves with it.
+
